@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1734474141.24896 "c:/Users/Jason4225/Desktop/Latex/Latex.tex" "Latex.pdf" "Latex" 1734474142.22544 0
+["pdflatex"] 1734475238.01447 "c:/Users/Jason4225/Desktop/Latex/Latex.tex" "Latex.pdf" "Latex" 1734475238.97187 0
   "C:/Users/Jason4225/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1734470311 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Jason4225/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1734468118 11988859 4d1b8fb7c5c957114232eb88618d0a10 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -108,11 +108,11 @@
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Latex.aux" 1734474142 2277 a1685adf31f4084360a94b41bc45d853 "pdflatex"
-  "Latex.out" 1734474142 531 8a2b67012d9cf423fc953d1316bada47 "pdflatex"
-  "Latex.tex" 1734474140 3980 5fc34f297a7c2d6440313141a1348acd ""
-  "Latex.toc" 1734474142 373 78055f13e54bff6f0b78c7c381261568 "pdflatex"
-  "c:/Users/Jason4225/Desktop/Latex/Latex.tex" 1734474140 3980 5fc34f297a7c2d6440313141a1348acd ""
+  "Latex.aux" 1734475238 2277 75d65b6b75e622a2aa05ca3ee1f21662 "pdflatex"
+  "Latex.out" 1734475238 531 8a2b67012d9cf423fc953d1316bada47 "pdflatex"
+  "Latex.tex" 1734475237 5925 a6f492d5f2c85cc074d571bc1426c080 ""
+  "Latex.toc" 1734475238 373 dd2196e41a5375e84e0cc43a969b53b2 "pdflatex"
+  "c:/Users/Jason4225/Desktop/Latex/Latex.tex" 1734475237 5925 a6f492d5f2c85cc074d571bc1426c080 ""
   "images/Gun.png" 1734469944 87854 5b1649793c00662e4ebfe2228e98d55e ""
   "images/Implosion.png" 1734469931 126360 89b45cdf5f0d7efb4faba0dd93780af3 ""
   (generated)
