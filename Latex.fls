@@ -226,10 +226,6 @@ INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts
 INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT .\Latex.bbl
-INPUT .\Latex.bbl
-INPUT Latex.bbl
-INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT Latex.aux
 INPUT .\Latex.out
 INPUT .\Latex.out
@@ -245,5 +241,3 @@ INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfon
 INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
 INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl12.pfb
-INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT C:\Users\Jason4225\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb

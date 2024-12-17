@@ -1,13 +1,5 @@
 # Fdb version 4
-["bibtex Latex"] 1734471371.0466 "Latex.aux" "Latex.bbl" "Latex" 1734471931.24343 0
-  "./bibliography.bib" 1734468103 112 671b566f46cf4af5714af6ff503d3aa2 ""
-  "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Latex.aux" 1734471930 1888 7cd8a63d24e93fdb7d9bfd889773f214 "pdflatex"
-  (generated)
-  "Latex.bbl"
-  "Latex.blg"
-  (rewritten before read)
-["pdflatex"] 1734471929.78487 "c:/Users/Jason4225/Desktop/Latex/Latex.tex" "Latex.pdf" "Latex" 1734471931.24406 0
+["pdflatex"] 1734472442.269 "c:/Users/Jason4225/Desktop/Latex/Latex.tex" "Latex.pdf" "Latex" 1734472443.21603 0
   "C:/Users/Jason4225/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1734470311 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Jason4225/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1734468118 11988859 4d1b8fb7c5c957114232eb88618d0a10 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -31,14 +23,12 @@
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb" 1247596666 34586 5a65dc15601f9c74fe3fb3f37b3b8b6f ""
-  "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1731069673 143218 b56ba929001097bf81564e098af1c174 ""
@@ -114,12 +104,11 @@
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Latex.aux" 1734471930 1888 7cd8a63d24e93fdb7d9bfd889773f214 "pdflatex"
-  "Latex.bbl" 1734471371 142 631dc9ff521afcec25a1c4df56f225d4 "bibtex Latex"
-  "Latex.out" 1734471930 325 9450f55adf6be165270ecdfeb43b293a "pdflatex"
-  "Latex.tex" 1734471929 1913 da9a96717480cd92e4ce344b26772798 ""
-  "Latex.toc" 1734471930 285 1b8a27ce5897ddcd2f3d72c6eb872619 "pdflatex"
-  "c:/Users/Jason4225/Desktop/Latex/Latex.tex" 1734471929 1913 da9a96717480cd92e4ce344b26772798 ""
+  "Latex.aux" 1734472443 1804 0d171c6ef90b573e5b5bb8bf8e96142c "pdflatex"
+  "Latex.out" 1734472443 325 9450f55adf6be165270ecdfeb43b293a "pdflatex"
+  "Latex.tex" 1734472441 2946 ce58dbfcdf9b90bad874b6c0d7b3a871 ""
+  "Latex.toc" 1734472443 285 1b8a27ce5897ddcd2f3d72c6eb872619 "pdflatex"
+  "c:/Users/Jason4225/Desktop/Latex/Latex.tex" 1734472441 2946 ce58dbfcdf9b90bad874b6c0d7b3a871 ""
   "images/Gun.png" 1734469944 87854 5b1649793c00662e4ebfe2228e98d55e ""
   "images/Implosion.png" 1734469931 126360 89b45cdf5f0d7efb4faba0dd93780af3 ""
   (generated)

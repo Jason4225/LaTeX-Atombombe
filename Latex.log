@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.17)  17 DEC 2024 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.17)  17 DEC 2024 22:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -542,29 +542,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-<./images/Gun.png, id=40, 363.60844pt x 179.16937pt>
+<./images/Gun.png, id=39, 363.60844pt x 179.16937pt>
 File: ./images/Gun.png Graphic file (type png)
 <use ./images/Gun.png>
-Package pdftex.def Info: ./images/Gun.png  used on input line 47.
+Package pdftex.def Info: ./images/Gun.png  used on input line 48.
 (pdftex.def)             Requested size: 254.52417pt x 125.4177pt.
-<./images/Implosion.png, id=41, 363.60844pt x 232.61906pt>
+<./images/Implosion.png, id=40, 363.60844pt x 232.61906pt>
 File: ./images/Implosion.png Graphic file (type png)
 <use ./images/Implosion.png>
-Package pdftex.def Info: ./images/Implosion.png  used on input line 48.
+Package pdftex.def Info: ./images/Implosion.png  used on input line 49.
 (pdftex.def)             Requested size: 254.52417pt x 162.83221pt.
 
-Overfull \hbox (72.4293pt too wide) in paragraph at lines 47--49
+Overfull \hbox (72.4293pt too wide) in paragraph at lines 48--50
  [][] 
  []
 
 
-Overfull \hbox (72.4293pt too wide) in paragraph at lines 47--49
+Overfull \hbox (72.4293pt too wide) in paragraph at lines 48--50
  [] 
- []
-
-
-Underfull \hbox (badness 2790) in paragraph at lines 51--54
-[]\OT1/cmr/bx/n/12 Gun-Design: \OT1/cmr/m/n/12 Zwei un-ter-kri-ti-sche Mas-sen von
  []
 
 
@@ -589,7 +584,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 <QR code requested for "https://github.com/Jason4225/Latex" in version 0-M.>
 <Copying the QR code for "https://github.com/Jason4225/Latex" in version 3-M as previously calculated.>
-(Latex.bbl)
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -608,17 +603,17 @@ Package rerunfilecheck Info: File `Latex.out' has not changed.
 (rerunfilecheck)             Checksum: 9450F55ADF6BE165270ECDFEB43B293A;325.
  ) 
 Here is how much of TeX's memory you used:
- 14189 strings out of 473681
- 222460 string characters out of 5717290
- 674355 words of memory out of 5000000
- 37063 multiletter control sequences out of 15000+600000
- 567832 words of font info for 73 fonts, out of 8000000 for 9000
+ 14176 strings out of 473681
+ 222227 string characters out of 5717290
+ 673326 words of memory out of 5000000
+ 37056 multiletter control sequences out of 15000+600000
+ 567485 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1021b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Latex.pdf (5 pages, 302501 bytes).
+<C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on Latex.pdf (5 pages, 293775 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
