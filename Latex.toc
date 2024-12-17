@@ -2,4 +2,5 @@
 \contentsline {section}{\numberline {1}Einführiung}{3}{section.1}%
 \contentsline {section}{\numberline {2}Aufbau}{3}{section.2}%
 \contentsline {section}{\numberline {3}Funktion}{4}{section.3}%
-\contentsline {section}{\numberline {4}Links}{5}{section.4}%
+\contentsline {section}{\numberline {4}Kritische-/Unterkritische Massen}{4}{section.4}%
+\contentsline {section}{\numberline {5}Links}{5}{section.5}%

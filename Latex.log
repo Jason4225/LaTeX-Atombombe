@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.17)  17 DEC 2024 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.17)  17 DEC 2024 23:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -424,7 +424,7 @@ Package: wrapfig 2003/01/31  v 3.6
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count333
 \l__pdf_internal_box=\box101
-) (Latex.aux <Reading QR code for "https://github.com/Jason4225/Latex" at level 3-M from aux file.>
+) (Latex.aux <Reading QR code for "https://github.com/Jason4225/LaTeX-Atombombe" at level 4-Q from aux file.>
 )
 \openout1 = `Latex.aux'.
 
@@ -542,24 +542,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-<./images/Gun.png, id=39, 363.60844pt x 179.16937pt>
+<./images/Gun.png, id=44, 363.60844pt x 179.16937pt>
 File: ./images/Gun.png Graphic file (type png)
 <use ./images/Gun.png>
-Package pdftex.def Info: ./images/Gun.png  used on input line 48.
+Package pdftex.def Info: ./images/Gun.png  used on input line 47.
 (pdftex.def)             Requested size: 254.52417pt x 125.4177pt.
-<./images/Implosion.png, id=40, 363.60844pt x 232.61906pt>
+<./images/Implosion.png, id=45, 363.60844pt x 232.61906pt>
 File: ./images/Implosion.png Graphic file (type png)
 <use ./images/Implosion.png>
-Package pdftex.def Info: ./images/Implosion.png  used on input line 49.
+Package pdftex.def Info: ./images/Implosion.png  used on input line 48.
 (pdftex.def)             Requested size: 254.52417pt x 162.83221pt.
 
-Overfull \hbox (72.4293pt too wide) in paragraph at lines 48--50
- [][] 
+Overfull \hbox (72.4293pt too wide) in paragraph at lines 47--49
+[][]
  []
 
 
-Overfull \hbox (72.4293pt too wide) in paragraph at lines 48--50
- [] 
+Overfull \hbox (72.4293pt too wide) in paragraph at lines 47--49
+[] 
  []
 
 
@@ -572,6 +572,73 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3 <./images/Gun.png> <./images/Implosion.png>]
+Overfull \hbox (27.09468pt too wide) in paragraph at lines 67--67
+[]\OT1/cmr/bx/n/17.28 Kritische-/Unterkritische Mas-
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 79.
+
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 79.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 79.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20> not available
+(Font)              size <20.74> substituted on input line 79.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 79.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 79.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <13.99994> not available
+(Font)              size <14.4> substituted on input line 79.
+
+LaTeX Font Info:    Calculating math sizes for size <> on input line 81.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
+(Font)              size <5> substituted on input line 81.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
+(Font)              size <5> substituted on input line 81.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -582,8 +649,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4] 
 
-<QR code requested for "https://github.com/Jason4225/Latex" in version 0-M.>
-<Copying the QR code for "https://github.com/Jason4225/Latex" in version 3-M as previously calculated.>
+<QR code requested for "https://github.com/Jason4225/LaTeX-Atombombe" in version 0-M.>
+<Error-correction level increased from M to Q at no cost.>
+<Copying the QR code for "https://github.com/Jason4225/LaTeX-Atombombe" in version 4-Q as previously calculated.>
 
 
 
@@ -593,27 +661,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5] (Latex.aux <Reading QR code for "https://github.com/Jason4225/Latex" at level 3-M from aux file.>
+[5] (Latex.aux <Reading QR code for "https://github.com/Jason4225/LaTeX-Atombombe" at level 4-Q from aux file.>
 )
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.5pt have occurred.
+
 Package rerunfilecheck Info: File `Latex.out' has not changed.
-(rerunfilecheck)             Checksum: 9450F55ADF6BE165270ECDFEB43B293A;325.
+(rerunfilecheck)             Checksum: 8A2B67012D9CF423FC953D1316BADA47;531.
  ) 
 Here is how much of TeX's memory you used:
- 14176 strings out of 473681
- 222227 string characters out of 5717290
- 673326 words of memory out of 5000000
- 37056 multiletter control sequences out of 15000+600000
- 567485 words of font info for 72 fonts, out of 8000000 for 9000
+ 14218 strings out of 473681
+ 222860 string characters out of 5717290
+ 685640 words of memory out of 5000000
+ 37094 multiletter control sequences out of 15000+600000
+ 571299 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1021b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on Latex.pdf (5 pages, 293775 bytes).
+ 75i,11n,79p,1289b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Jason4225/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
+Output written on Latex.pdf (5 pages, 317415 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
