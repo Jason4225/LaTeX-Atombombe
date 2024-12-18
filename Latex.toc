@@ -4,4 +4,5 @@
 \contentsline {section}{\numberline {3}Funktion}{3}{section.3}%
 \contentsline {section}{\numberline {4}Kritische-/Unterkritische Massen}{3}{section.4}%
 \contentsline {section}{\numberline {5}Tabelle: Materialeigenschaften}{4}{section.5}%
-\contentsline {section}{\numberline {6}Links}{5}{section.6}%
+\contentsline {section}{\numberline {6}Bonus}{4}{section.6}%
+\contentsline {section}{\numberline {7}Links}{5}{section.7}%
