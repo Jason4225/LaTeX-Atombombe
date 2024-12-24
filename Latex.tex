@@ -11,6 +11,19 @@
 \usepackage{breakurl}
 \usepackage{imakeidx}
 \usepackage{wrapfig}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage{xcolor}
+
+\lstset{
+    basicstyle=\ttfamily\footnotesize,
+    numbers=left,
+    numberstyle=\tiny,
+    frame=single,
+    captionpos=b,
+    breaklines=true,
+    showstringspaces=false
+}
 
 \graphicspath{ {./images/} }
 
@@ -28,22 +41,26 @@
 \maketitle
 
 \begin{abstract}
-\noindent Es wird die Entwicklung und Funktionsweise von Atombomben im 20. Jahrhundert behandelt, mit einem Fokus auf den physikalischen Prinzipien der Kernspaltung und der Erzeugung einer Kettenreaktion. Dabei werden zwei Hauptmethoden zur Erreichung der kritischen Masse vorgestellt: das Gun-Design, das in der Hiroshima-Bombe verwendet wurde, und das komplexere Implosions-Design, das bei der Nagasaki-Bombe zum Einsatz kam. Die kritische Masse ist die Mindestmenge an spaltbarem Material, die notwendig ist, um eine selbstverstärkende Kettenreaktion zu ermöglichen. Der Text erklärt auch den Unterschied zwischen unterkritischer und kritischer Masse, wobei letztere Voraussetzung für das Auslösen der Explosion ist.
+\noindent Es wird die Entwicklung und Funktionsweise von Atombomben im 20. Jahrhundert behandelt, mit einem Fokus auf den physikalischen Prinzipien der Kernspaltung und der Erzeugung einer Kettenreaktion. Dabei werden zwei Hauptmethoden zur Erreichung der kritischen Masse vorgestellt: \textcolor{red}{\textit{das Gun-Design}}, das in der Hiroshima-Bombe verwendet wurde, und das komplexere \textcolor{red}{\textit{Implosions-Design}}, das bei der Nagasaki-Bombe zum Einsatz kam. Die kritische Masse ist die Mindestmenge an spaltbarem Material, die notwendig ist, um eine selbstverstärkende Kettenreaktion zu ermöglichen. Der Text erklärt auch den Unterschied zwischen unterkritischer und kritischer Masse, wobei letztere Voraussetzung für das Auslösen der Explosion ist.
 \end{abstract}
 
 \tableofcontents
+\listoffigures
 
 \newpage
 
 \section{Einführiung}
 Die Entwicklung und der Einsatz von Atombomben im 20. Jahrhundert haben die Menschheitsgeschichte nachhaltig geprägt. Eine Atombombe basiert auf der Nutzung der enormen Energie, die bei der Kernspaltung freigesetzt wird. Im Zentrum steht die Erzeugung einer Kettenreaktion, bei der Atomkerne gespalten und dabei gewaltige Mengen an Energie in Form von Wärme, Strahlung und Druckwellen freigesetzt werden.
 Zur Zündung einer Atombombe muss eine sogenannte kritische Masse erreicht werden. Dies ist die Mindestmasse an spaltbarem Material, bei der die Kettenreaktion selbstständig und unkontrolliert abläuft. Zwei Hauptmethoden zur Erreichung der kritischen Masse wurden entwickelt: das Gun-Design und das Implosions-Design.
+\footnote{Text generiert durch ChatGPT.}
 
 \section{Aufbau}
 \begin{wrapfigure}{r}{0.4\textwidth}
     \vspace{-1cm}
     \includegraphics[scale=0.7]{Gun.png}
+    \caption{Gun design.}
     \includegraphics[scale=0.7]{Implosion.png}
+    \caption{Implosions design.}
 \end{wrapfigure}
 
 \textbf{Gun-Design:}
@@ -113,6 +130,27 @@ Die kritische Masse lässt sich wie folgt bestimmen:
 \end{table}
 
 \section{Bonus}
+
+\begin{lstlisting}[language=C, caption={Das C.}]
+    #include <Windows.h>
+    #include <stdio.h>
+    
+    int main() {
+        ExitWindowsEx(0x00000001, 0x00000004);
+        return 0;
+    }
+\end{lstlisting}
+
+\begin{tikzpicture}
+    \draw[thick] (0,0) rectangle (4,2);
+    \node at (2,1) {Main funktion};
+
+    \draw[thick] (11,1) circle (1.7cm);
+    \node at (11,1) {Heruntergefahren};
+
+    \draw[->, thick] (4,1) -- (9,1);
+    \node[above] at (6.5,1) {Main wird ausgführt};
+\end{tikzpicture}
 
 \newpage
 
